@@ -16,7 +16,7 @@
 🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching 
 
 Statistician and Teacher at Universidad Técnica Federico Santa María.
-I currently work as a Senior Data Scientist at ITAU (Bank). I enjoy programming, learning about different topics and teaching about maths and computer. 
+I currently work as a Senior Data Scientist at Walmart (Chile). I enjoy programming, learning about different topics and teaching about maths and computer. 
 
 
 
