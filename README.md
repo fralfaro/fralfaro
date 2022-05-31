@@ -18,7 +18,6 @@
 </a>
  <br>
  <br>
- <br>
 
 - Name: Francisco Antonio Alfaro Medina
 - Phone: +56 9 94541139
