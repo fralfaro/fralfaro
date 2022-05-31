@@ -16,7 +16,9 @@
 <a href="https://fralfaro.github.io/ds_blog/">
   <img align="left" alt="blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
-<br />
+ <br>
+ <br>
+ <br>
 
 - Name: Francisco Antonio Alfaro Medina
 - Phone: +56 9 94541139
