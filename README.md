@@ -5,9 +5,9 @@
 <a href="https://github.com/fralfaro"><img alt="Link" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
 <a href="https://gitlab.com/fralfaro"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
 <a href="https://fralfaro.github.io/ds_blog/"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.kaggle.com/faamds"><img alt="Link" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://medium.com/@fralfaro"><img alt="Link" src="https://cdn.cdnlogo.com/logos/m/66/medium-m.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
+<a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://www.pngmart.com/files/21/Linkedin-PNG-Clipart.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
+<a href="https://medium.com/@fralfaro"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
+<a href="https://www.kaggle.com/faamds"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
 &nbsp;
 &nbsp;
 
