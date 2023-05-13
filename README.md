@@ -20,7 +20,6 @@
 - **Personal Portfolio**: [link](https://fralfaro.github.io/portfolio/)
 
 
-
 ## Personal Information
 🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
 
