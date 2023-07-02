@@ -2,6 +2,9 @@
 
 ## Contact Information
 
+
+
+<a href="https://github.com/fralfaro"><img alt="Link" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
 <a href="https://gitlab.com/fralfaro"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
 <a href="https://fralfaro.github.io/ds_blog/"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
 <a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://www.pngmart.com/files/21/Linkedin-PNG-Clipart.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
@@ -15,10 +18,8 @@
 - **Name**: Francisco Antonio Alfaro Medina
 - **Phone**: +56 9 94541139
 - **Email**: francisco.alfaro.496@gmail.com
-- **Curriculum Vitae**: [![Blog Badge](https://img.shields.io/badge/docs-cv-orange)](https://gitlab.com/fralfaro/cv/-/jobs/artifacts/main/browse?job=generate_pdf)
-- **Personal Portfolio**: [![Blog Badge](https://img.shields.io/badge/portfolio-fralfaro-orange)](https://fralfaro.github.io/portfolio/)
-
-
+- **Curriculum Vitae**: [link](https://gitlab.com/fralfaro/cv/-/jobs/artifacts/main/browse?job=generate_pdf)
+- **Personal Portfolio**: [link](https://fralfaro.github.io/portfolio/)
 
 
 ## Personal Information
