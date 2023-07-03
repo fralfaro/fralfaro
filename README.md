@@ -43,7 +43,7 @@ I enjoy programming, learning about different topics and teaching about maths an
 
 
 ## 🧰 <span style="font-size:20px;">Tools: </span> &#8202;&#8202;&#8202;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://gogeticon.net/files/3163573/d130ef65a8efdfa66fa49eb5ab745cef.png" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_databricks_logo_freelogovectors.net_.png" alt="elasticsearch" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
