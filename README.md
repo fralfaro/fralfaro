@@ -87,6 +87,6 @@ teaching about maths and computer science.
   
 <a href='https://github.com/shahupdates/github-stats-transparent'>
   
-![](https://raw.githubusercontent.com/fralfaro/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/fralfaro/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/fralfaro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/fralfaro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </a>
