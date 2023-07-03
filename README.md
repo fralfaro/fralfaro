@@ -1,6 +1,10 @@
 ## Hi 👋 My name is Francisco Alfaro
 
-### Developer, Speaker, Teacher.
+
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
+</p>
 
 Associate Lecturer at Universidad Santa María (USM) and Senior Data Scientist at Walmart (Chile). 
 I enjoy programming, learning about different topics and teaching about maths and computer science.
