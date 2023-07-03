@@ -1,85 +1,48 @@
-# About me
+Hi 👋 My name is Francisco Alfaro
+=================================
 
-## Contact Information
+Developer, Speaker, Teacher.
+----------------------------
 
+Associate Lecturer at Universidad Santa María (USM) and Senior Data Scientist at Walmart (Chile). I enjoy programming, learning about different topics and teaching about maths and computer science.
 
+* 🌍  I'm based in Chile
+* 🖥️  See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/)
+* ✉️  You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com)
+* 🧠  I'm learning Software Development, Deep Learning and Advanced Statistics.
+* 🤝  I'm open to collaborating on Education Projects
 
-<a href="https://github.com/fralfaro"><img alt="Link" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://gitlab.com/fralfaro"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://fralfaro.github.io/ds_blog/"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://www.pngmart.com/files/21/Linkedin-PNG-Clipart.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://medium.com/@fralfaro"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.kaggle.com/faamds"><img alt="Link" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-&nbsp;
-&nbsp;
-
-&nbsp;
-
-- **Name**: Francisco Antonio Alfaro Medina
-- **Phone**: +56 9 94541139
-- **Email**: francisco.alfaro.496@gmail.com
-- **Curriculum Vitae**: [link](https://gitlab.com/fralfaro/cv/-/jobs/artifacts/main/browse?job=generate_pdf)
-- **Personal Portfolio**: [link](https://fralfaro.github.io/portfolio/)
+### Skills
 
 
-## Personal Information
-🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
-
-Associate Lecturer at Universidad Santa María (USM) and Senior Data Scientist  <br> 
-at Walmart (Chile). I enjoy programming, learning about different topics and   <br> 
-teaching about maths and computer science. 
-
-
-🔍 **Interests**:
-
-* Software Development.
-* Statistical Modelling, Time Series.
-* Machine/Deep Learning ,Cloud computing, Big Data.
-
-
-## **My Tech Stack**
-
-### Languages & Frameworks
-![Python Badge](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=darkgreen)
-![JN Badge](https://img.shields.io/badge/Jupyter-100000.svg?&style=for-the-badge&logo=Jupyter&logoColor=whiten)
-![R Badge](https://img.shields.io/badge/R-100000?style=for-the-badge&logo=r&logoColor=blue)
-![C Badge](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c&logoColor=Yellow)
-![databricks](https://img.shields.io/badge/Databricks-100000?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxOC4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4KCjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgdmVyc2lvbj0iMS4xIgogICBpZD0iTGF5ZXJfMSIKICAgeD0iMHB4IgogICB5PSIwcHgiCiAgIHZpZXdCb3g9IjAgMCA2NCA2NCIKICAgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNjQwIDk2IgogICB4bWw6c3BhY2U9InByZXNlcnZlIgogICBzb2RpcG9kaTpkb2NuYW1lPSJkYXRhYnJpY2tzLWljb24uc3ZnIgogICB3aWR0aD0iNjQiCiAgIGhlaWdodD0iNjQiCiAgIGlua3NjYXBlOnZlcnNpb249IjAuOTIuNCAoNWRhNjg5YzMxMywgMjAxOS0wMS0xNCkiPjxtZXRhZGF0YQogICBpZD0ibWV0YWRhdGE0NSI+PHJkZjpSREY+PGNjOldvcmsKICAgICAgIHJkZjphYm91dD0iIj48ZGM6Zm9ybWF0PmltYWdlL3N2Zyt4bWw8L2RjOmZvcm1hdD48ZGM6dHlwZQogICAgICAgICByZGY6cmVzb3VyY2U9Imh0dHA6Ly9wdXJsLm9yZy9kYy9kY21pdHlwZS9TdGlsbEltYWdlIiAvPjxkYzp0aXRsZT48L2RjOnRpdGxlPjwvY2M6V29yaz48L3JkZjpSREY+PC9tZXRhZGF0YT48ZGVmcwogICBpZD0iZGVmczQzIiAvPjxzb2RpcG9kaTpuYW1lZHZpZXcKICAgcGFnZWNvbG9yPSIjZmZmZmZmIgogICBib3JkZXJjb2xvcj0iIzY2NjY2NiIKICAgYm9yZGVyb3BhY2l0eT0iMSIKICAgb2JqZWN0dG9sZXJhbmNlPSIxMCIKICAgZ3JpZHRvbGVyYW5jZT0iMTAiCiAgIGd1aWRldG9sZXJhbmNlPSIxMCIKICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAiCiAgIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiCiAgIGlua3NjYXBlOndpbmRvdy13aWR0aD0iMTkyMCIKICAgaW5rc2NhcGU6d2luZG93LWhlaWdodD0iMTAwMSIKICAgaWQ9Im5hbWVkdmlldzQxIgogICBzaG93Z3JpZD0iZmFsc2UiCiAgIGlua3NjYXBlOnpvb209IjIuOTk2MzY1IgogICBpbmtzY2FwZTpjeD0iNTMuMDA5ODI5IgogICBpbmtzY2FwZTpjeT0iNDgiCiAgIGlua3NjYXBlOndpbmRvdy14PSItOSIKICAgaW5rc2NhcGU6d2luZG93LXk9Ii05IgogICBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIxIgogICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJMYXllcl8xIiAvPgoKCgo8ZwogICBpZD0iZzUwIgogICB0cmFuc2Zvcm09Im1hdHJpeCgwLjc1Mjk0MTE4LDAsMCwwLjc1Mjk0MTE4LDEuMDU0MTE3NSwxOC44MjM1MjkpIj48cGF0aAogICAgIHN0eWxlPSJmaWxsOiNkYjE5MDUiCiAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICBpZD0icGF0aDIiCiAgICAgZD0iTSAwLDI0LjggViAzOC41IEwgNDEuMSw2MCA4Mi4yLDM4LjUgdiAtMTMuNyAwIEwgNjcuNywxNy40IDgyLjIsOS44IHYgLTEzLjYgMCAwIC0wLjEgTCA4Mi4xLC0zLjggNDEuMSwtMjUgMC4xLC0zLjkgSCAwIFYgOS44IEwgMTQuNSwxNy40IDAsMjQuOCIgLz48cG9seWdvbgogICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTM2KSIKICAgICBzdHlsZT0iZmlsbDojZmY1MjI0IgogICAgIGlkPSJwb2x5Z29uNCIKICAgICBwb2ludHM9IjAsNjAuOCA0MS4xLDgyLjMgODIuMiw2MC44IDY3LjcsNTMuNCA0MS4xLDY3LjMgMTQuNSw1My40ICIgLz48cG9seWdvbgogICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTM2KSIKICAgICBzdHlsZT0iZmlsbDojZmY1MjI0IgogICAgIGlkPSJwb2x5Z29uNiIKICAgICBwb2ludHM9IjgyLjIsMzIuMiA0MS4xLDUzLjcgMCwzMi4yIDQxLjEsMTEgIiAvPjwvZz4KCjwvc3ZnPg==)
-![TF Badge](https://img.shields.io/badge/TensorFlow-100000?style=for-the-badge&logo=TensorFlow&logoColor=orange)
-
-![Scala Badge](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![FastApi Badge](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Conda Badge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![MYSQL Badge](https://img.shields.io/badge/MySQL-2311AB00?style=for-the-badge&logo=mysql&logoColor=white)
-![POST Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![NOSQL Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+</p>
 
 
+### Socials
 
-### Cloud
+<p align="left"> 
+<a href="https://www.github.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/faam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="http://www.medium.com/@fralfaro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/12886284/fralfaro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-![GCP Badge](https://img.shields.io/badge/Google_Cloud-100000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTQwLjcyOCAyMC40ODhsMi4wNS4wMzUgNS41Ny01LjU3LjI3LTIuMzZDNDQuMiA4LjY1NyAzOC4zNjcgNi4yNiAzMS45OTMgNi4yNmMtMTEuNTQgMC0yMS4yOCA3Ljg1Mi0yNC4xNjMgMTguNDg4LjYwOC0uNDI0IDEuOTA4LS4xMDYgMS45MDgtLjEwNmwxMS4xMy0xLjgzcy41NzItLjk0Ny44NjItLjlBMTMuODggMTMuODggMCAwIDEgMzIgMTcuMzc1YzMuMy4wMDcgNi4zNCAxLjE3MyA4LjcyOCAzLjEwMnoiIGZpbGw9IiNlYTQzMzUiLz48cGF0aCBkPSJNNTYuMTcgMjQuNzdjLTEuMjkzLTQuNzctMy45NTgtOC45ODItNy41NTUtMTIuMTc3bC03Ljg4NyA3Ljg4N2MzLjE2IDIuNTUgNS4xODcgNi40NTIgNS4xODcgMTAuODJ2MS4zOTJjMy44MzcgMCA2Ljk1NCAzLjEyNCA2Ljk1NCA2Ljk1NCAwIDMuODM3LTMuMTI0IDYuOTU0LTYuOTU0IDYuOTU0SDMyLjAwN0wzMC42MTUgNDh2OC4zNDZsMS4zOTIgMS4zODVoMTMuOTA4QTE4LjExIDE4LjExIDAgMCAwIDY0IDM5LjY0N2MtLjAwNy02LjE1NS0zLjEtMTEuNi03LjgzLTE0Ljg3NnoiIGZpbGw9IiM0Mjg1ZjQiLz48cGF0aCBkPSJNMTguMDg1IDU3Ljc0aDEzLjlWNDYuNmgtMTMuOWE2Ljg5IDYuODkgMCAwIDEtMi44NjItLjYyMmwtMi4wMDcuNjE1LTUuNTcgNS41Ny0uNDg4IDEuODhhMTggMTggMCAwIDAgMTAuOTI2IDMuNjg5eiIgZmlsbD0iIzM0YTg1MyIvPjxwYXRoIGQ9Ik0xOC4wODUgMjEuNTdBMTguMTEgMTguMTEgMCAwIDAgMCAzOS42NTRjMCA1Ljg3MyAyLjgxMyAxMS4wOTUgNy4xNjYgMTQuNDAzbDguMDY0LTguMDY0YTYuOTYgNi45NiAwIDAgMS00LjA5OS02LjMzOWMwLTMuODM3IDMuMTI0LTYuOTU0IDYuOTU0LTYuOTU0IDIuODIgMCA1LjI0NCAxLjcgNi4zNCA0LjFsOC4wNjQtOC4wNjRjLTMuMzA3LTQuMzUzLTguNTMtNy4xNjYtMTQuNDAzLTcuMTY2eiIgZmlsbD0iI2ZiYmMwNSIvPjwvc3ZnPg==)
-![AZURE Badge](https://img.shields.io/badge/microsoft%20azure-100000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iNzcuNDMiIHZpZXdCb3g9IjAgMCAxOS42OCAxNS4yNCI+PHBhdGggZD0iTTkuMTA1IDE0LjQzbDQuNjQyLS44Mi4wNDMtLjAxLTIuMzg3LTIuODRhNDAzLjk0NSA0MDMuOTQ1IDAgMCAxLTIuMzg3LTIuODUzYzAtLjAxNCAyLjQ2NS02LjgwMiAyLjQ3OS02LjgyNi4wMDQtLjAwOCAxLjY4MiAyLjg4OCA0LjA2NiA3LjAybDQuMDkgNy4wOS4wMzEuMDU0LTcuNTg3LS4wMDEtNy41ODctLjAwMSA0LjU5Ny0uODEyek0wIDEzLjU2NmMwLS4wMDQgMS4xMjUtMS45NTcgMi41LTQuMzRMNSA0Ljg5M2wyLjkxMy0yLjQ0NUM5LjUxNSAxLjEwNCAxMC44My4wMDIgMTAuODM2IDBhLjUxMi41MTIgMCAwIDEtLjA0Ny4xMThMNy42MjUgNi45MDNsLTMuMTA3IDYuNjYzLTIuMjU5LjAwM2MtMS4yNDIuMDAyLTIuMjU5IDAtMi4yNTktLjAwNHoiIGZpbGw9IiMwMDg5ZDYiLz48L3N2Zz4=)
-![AWS Badge](https://img.shields.io/badge/Amazon_AWS-100000?style=for-the-badge&logo=amazon-aws&logoColor=orange)
+### Badges
 
-### Tools and Others
+<b>My GitHub Stats</b>
 
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![REDIS Badge](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Pycharm Badge](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![VIM Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+<a href="http://www.github.com/fralfaro"><img src="https://github-readme-stats.vercel.app/api?username=fralfaro&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fralfaro's GitHub stats" /></a>
 
+<a href="http://www.github.com/fralfaro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=fralfaro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-## **Certifications**
-
-* ![Microsoft](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Data%20Engineer-100000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij48cGF0aCBkPSJNMCAwaDE1LjIwNnYxNS4yMDZIMHoiIGZpbGw9IiNmMjUwMjIiLz48cGF0aCBkPSJNMTYuNzk0IDBIMzJ2MTUuMjA2SDE2Ljc5NHoiIGZpbGw9IiM3ZmJhMDAiLz48cGF0aCBkPSJNMCAxNi43OTRoMTUuMjA2VjMySDB6IiBmaWxsPSIjMDBhNGVmIi8+PHBhdGggZD0iTTE2Ljc5NCAxNi43OTRIMzJWMzJIMTYuNzk0eiIgZmlsbD0iI2ZmYjkwMCIvPjwvc3ZnPg==)
-* ![Microsoft](https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Fundamentals-100000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij48cGF0aCBkPSJNMCAwaDE1LjIwNnYxNS4yMDZIMHoiIGZpbGw9IiNmMjUwMjIiLz48cGF0aCBkPSJNMTYuNzk0IDBIMzJ2MTUuMjA2SDE2Ljc5NHoiIGZpbGw9IiM3ZmJhMDAiLz48cGF0aCBkPSJNMCAxNi43OTRoMTUuMjA2VjMySDB6IiBmaWxsPSIjMDBhNGVmIi8+PHBhdGggZD0iTTE2Ljc5NCAxNi43OTRIMzJWMzJIMTYuNzk0eiIgZmlsbD0iI2ZmYjkwMCIvPjwvc3ZnPg==)
-* ![Coursera](https://img.shields.io/badge/Coursera%3A%20DevOps%20on%20AWS-100000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTQ4LjUgMTUuOGwtMi40NDMtLjEwNmMtNy4zODMgMC0xMi4xNjMgMy45My0xNC44MTggOC40OThsLTYuNDI3IDExLjM2NmMtMS43IDIuNy0zLjk4MyAzLjg3Ny03LjA2NCAzLjg3Ny00LjQwOCAwLTguMDItMy4zNDYtOC4wMi03LjQzNnMzLjYxMi03LjQzNiA4LjAyLTcuNDM2YzIuNjAyIDAgNC41MTUuNyA2LjA1NSAyLjRsNC43MjctNy44MDdhMTguNjIgMTguNjIgMCAwIDAtMTAuODg4LTMuNTA1QzcuOTE0IDE1LjY0MiAwIDIyLjkxOCAwIDMxLjk0N2MwIDcuNTk1IDUuNjMgMTMuOTY4IDEzLjI3OCAxNS43NzQgMS4zOC4zMiAyLjg2OC41MyA0LjM1NS41M2guMzcyYzUuOC0uMTA2IDExLjMxMy0xLjk2NSAxNC4wMjItNi44NWw3LjExNy0xMi44YzEuMzI4LTIuMDcgMi41NS0yLjk3NCA0LjQwOC0zLjU1OC44NS0uMjY2IDEuNzUzLS40MjUgMi43LS40MjUgNC40MDggMCA4LjAyIDMuMzQ2IDguMDIgNy40MzZTNTAuNjcgMzkuNSA0Ni4yNjIgMzkuNWMtMy42MTIgMC01Ljg0Mi0uOTAzLTcuOTY3LTMuNTU4bC00LjU2OCA3LjVjMy4xODcgMy4wMjcgNy43IDQuOTQgMTIuNjQgNC45NCA5LjcyIDAgMTcuNjMzLTcuMjc2IDE3LjYzMy0xNi4zMDUuMDUzLTguMzkyLTYuNzQ1LTE1LjI5Ni0xNS41LTE2LjI1MnoiIGZpbGw9IiMzYjcyYjkiLz48L3N2Zz4=)
-* ![Coursera](https://img.shields.io/badge/Coursera%3A%20Machine%20Learning-100000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTQ4LjUgMTUuOGwtMi40NDMtLjEwNmMtNy4zODMgMC0xMi4xNjMgMy45My0xNC44MTggOC40OThsLTYuNDI3IDExLjM2NmMtMS43IDIuNy0zLjk4MyAzLjg3Ny03LjA2NCAzLjg3Ny00LjQwOCAwLTguMDItMy4zNDYtOC4wMi03LjQzNnMzLjYxMi03LjQzNiA4LjAyLTcuNDM2YzIuNjAyIDAgNC41MTUuNyA2LjA1NSAyLjRsNC43MjctNy44MDdhMTguNjIgMTguNjIgMCAwIDAtMTAuODg4LTMuNTA1QzcuOTE0IDE1LjY0MiAwIDIyLjkxOCAwIDMxLjk0N2MwIDcuNTk1IDUuNjMgMTMuOTY4IDEzLjI3OCAxNS43NzQgMS4zOC4zMiAyLjg2OC41MyA0LjM1NS41M2guMzcyYzUuOC0uMTA2IDExLjMxMy0xLjk2NSAxNC4wMjItNi44NWw3LjExNy0xMi44YzEuMzI4LTIuMDcgMi41NS0yLjk3NCA0LjQwOC0zLjU1OC44NS0uMjY2IDEuNzUzLS40MjUgMi43LS40MjUgNC40MDggMCA4LjAyIDMuMzQ2IDguMDIgNy40MzZTNTAuNjcgMzkuNSA0Ni4yNjIgMzkuNWMtMy42MTIgMC01Ljg0Mi0uOTAzLTcuOTY3LTMuNTU4bC00LjU2OCA3LjVjMy4xODcgMy4wMjcgNy43IDQuOTQgMTIuNjQgNC45NCA5LjcyIDAgMTcuNjMzLTcuMjc2IDE3LjYzMy0xNi4zMDUuMDUzLTguMzkyLTYuNzQ1LTE1LjI5Ni0xNS41LTE2LjI1MnoiIGZpbGw9IiMzYjcyYjkiLz48L3N2Zz4=)
-* ![Coursera](https://img.shields.io/badge/Coursera%3A%20DeepLearning.AI%20TensorFlow%20Developer-100000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTQ4LjUgMTUuOGwtMi40NDMtLjEwNmMtNy4zODMgMC0xMi4xNjMgMy45My0xNC44MTggOC40OThsLTYuNDI3IDExLjM2NmMtMS43IDIuNy0zLjk4MyAzLjg3Ny03LjA2NCAzLjg3Ny00LjQwOCAwLTguMDItMy4zNDYtOC4wMi03LjQzNnMzLjYxMi03LjQzNiA4LjAyLTcuNDM2YzIuNjAyIDAgNC41MTUuNyA2LjA1NSAyLjRsNC43MjctNy44MDdhMTguNjIgMTguNjIgMCAwIDAtMTAuODg4LTMuNTA1QzcuOTE0IDE1LjY0MiAwIDIyLjkxOCAwIDMxLjk0N2MwIDcuNTk1IDUuNjMgMTMuOTY4IDEzLjI3OCAxNS43NzQgMS4zOC4zMiAyLjg2OC41MyA0LjM1NS41M2guMzcyYzUuOC0uMTA2IDExLjMxMy0xLjk2NSAxNC4wMjItNi44NWw3LjExNy0xMi44YzEuMzI4LTIuMDcgMi41NS0yLjk3NCA0LjQwOC0zLjU1OC44NS0uMjY2IDEuNzUzLS40MjUgMi43LS40MjUgNC40MDggMCA4LjAyIDMuMzQ2IDguMDIgNy40MzZTNTAuNjcgMzkuNSA0Ni4yNjIgMzkuNWMtMy42MTIgMC01Ljg0Mi0uOTAzLTcuOTY3LTMuNTU4bC00LjU2OCA3LjVjMy4xODcgMy4wMjcgNy43IDQuOTQgMTIuNjQgNC45NCA5LjcyIDAgMTcuNjMzLTcuMjc2IDE3LjYzMy0xNi4zMDUuMDUzLTguMzkyLTYuNzQ1LTE1LjI5Ni0xNS41LTE2LjI1MnoiIGZpbGw9IiMzYjcyYjkiLz48L3N2Zz4=)
-* ![UDEMY](https://img.shields.io/badge/Udemy%3A%20Taming%20Big%20Data%20with%20Apache%20Spark%20and%20Python%20--%20Hands%20On!-100000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDQgNjQiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTE0MS41OCA0MC4yM2EzLjgzIDMuODMgMCAwIDAtMS42OTMtLjc5NmMtMy42NTUgMy42NDMtOC4xMTUgNy40OC0xMi4wNzUgMTAuMDYtMS44MjcgMS4yMTQtNC4xMjYgMS44Mi01LjY0NyAxLjgyLTMuNTAzIDAtNS4wMjUtMy4zNC01LjQ4Mi04LjY1LS42MS03LjEzLTEuMDItMTUuNjcyLTEuMDItMjguODczIDAtMTMuNTQtMy4wNzMtMjIuNzQzLTExLjI1OC0yMy40NjUtLjM0Ni0uMDMtLjY5Ni0uMDUyLTEuMDYtLjA1Mi01LjAyNSAwLTcuNDYyIDIuNTgtMTAuNjYgOS4xMDQtMi43NCA1LjYxMy03LjAwNCAxMy44MDYtMTQuOTIgMjkuMjgyQzcwLjkxMyA0Mi4wMTQgNjMuMyA1My44NSA1Ni43NSA2Mi4wNDJjLTEuODI0IDIuMjctMy4yNjUgMy44My00LjYyIDQuNzItLjkwNS41OTYtMS43NzQuODk0LTIuNjg4Ljg5NC0yLjU4NSAwLTQuNDctMi4xOC01LjEtNy4yNi0uMTUtMS4yMDctLjIzLTIuNTc3LS4yMy00LjEyIDAtMTAuNDcgMy45Ni0yNy40NjIgMTAuOC01Mi40OTggNS4wMjUtMTguMjA2IDIuODk0LTMwLjY0Ni04LjA3LTMwLjY0NmgtLjEyM2wtLjAwNy4wMDJjLTIuNDgzLjAzLTQuNTQuOTI4LTYuNTI0IDIuNDktMS45NTIgMS41MzctMy45MDYgNC44NTctNS43MyA5LjMyMkMzMi40MTMtMTAuMDMgMTkuOTEgMTUuMDQ3LjAxNCAyNy45NjZjLS4yMzQgNC45MTIgMi41NDYgOS44MiA4LjE4IDEwLjM1MyA1LjEzLjQ4NiA4Ljc3LTEuNjc2IDEzLjQ2LTQuODI1YTEyOTYuMTgzIDEyOTYuMTgzIDAgMCAwLTEuODU4IDguNDE2bC0uNjUyIDIuOTg2YTgzLjc5MiA4My43OTIgMCAwIDAtMS40MTcgOC41MkMxNC45MiA3OC40OTQgMjYuNTQzIDkwLjg3IDQwLjE1NSA5MC44N2MyLjI3NSAwIDQuNTMtLjI3IDYuNzY3LS44NEM2MS45MiA4Ni4yMjYgNzYuMzYgNjkuMDIzIDkzLjQ0OCAyOS40MmMtLjI2IDQuMzA4LS4yODYgOC4zMy0uMSAxMi4wNjUgMS4xMjUgMjIuNjk3IDEwLjEwMyAyOS41MDcgMjIuNzg3IDI5LjUwNyA5LjU5MyAwIDE4LjU3Ni01LjAwNiAyMy4xNDQtMTEuMjI3IDMuMzUtNC40IDQuNzItOS4yNTYgNC43Mi0xMy4wNSAwLTIuOTQ0LS45MzQtNS4yOTUtMi40Mi02LjQ4OCIgZmlsbD0iI2VhNTI1MiIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+)
-* ![UDEMY](https://img.shields.io/badge/Udemy%3A%20Docker%20Mastery%20with%20Kubernetes%20%2BSwarm%20from%20a%20Docker%20Captain-100000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDQgNjQiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTE0MS41OCA0MC4yM2EzLjgzIDMuODMgMCAwIDAtMS42OTMtLjc5NmMtMy42NTUgMy42NDMtOC4xMTUgNy40OC0xMi4wNzUgMTAuMDYtMS44MjcgMS4yMTQtNC4xMjYgMS44Mi01LjY0NyAxLjgyLTMuNTAzIDAtNS4wMjUtMy4zNC01LjQ4Mi04LjY1LS42MS03LjEzLTEuMDItMTUuNjcyLTEuMDItMjguODczIDAtMTMuNTQtMy4wNzMtMjIuNzQzLTExLjI1OC0yMy40NjUtLjM0Ni0uMDMtLjY5Ni0uMDUyLTEuMDYtLjA1Mi01LjAyNSAwLTcuNDYyIDIuNTgtMTAuNjYgOS4xMDQtMi43NCA1LjYxMy03LjAwNCAxMy44MDYtMTQuOTIgMjkuMjgyQzcwLjkxMyA0Mi4wMTQgNjMuMyA1My44NSA1Ni43NSA2Mi4wNDJjLTEuODI0IDIuMjctMy4yNjUgMy44My00LjYyIDQuNzItLjkwNS41OTYtMS43NzQuODk0LTIuNjg4Ljg5NC0yLjU4NSAwLTQuNDctMi4xOC01LjEtNy4yNi0uMTUtMS4yMDctLjIzLTIuNTc3LS4yMy00LjEyIDAtMTAuNDcgMy45Ni0yNy40NjIgMTAuOC01Mi40OTggNS4wMjUtMTguMjA2IDIuODk0LTMwLjY0Ni04LjA3LTMwLjY0NmgtLjEyM2wtLjAwNy4wMDJjLTIuNDgzLjAzLTQuNTQuOTI4LTYuNTI0IDIuNDktMS45NTIgMS41MzctMy45MDYgNC44NTctNS43MyA5LjMyMkMzMi40MTMtMTAuMDMgMTkuOTEgMTUuMDQ3LjAxNCAyNy45NjZjLS4yMzQgNC45MTIgMi41NDYgOS44MiA4LjE4IDEwLjM1MyA1LjEzLjQ4NiA4Ljc3LTEuNjc2IDEzLjQ2LTQuODI1YTEyOTYuMTgzIDEyOTYuMTgzIDAgMCAwLTEuODU4IDguNDE2bC0uNjUyIDIuOTg2YTgzLjc5MiA4My43OTIgMCAwIDAtMS40MTcgOC41MkMxNC45MiA3OC40OTQgMjYuNTQzIDkwLjg3IDQwLjE1NSA5MC44N2MyLjI3NSAwIDQuNTMtLjI3IDYuNzY3LS44NEM2MS45MiA4Ni4yMjYgNzYuMzYgNjkuMDIzIDkzLjQ0OCAyOS40MmMtLjI2IDQuMzA4LS4yODYgOC4zMy0uMSAxMi4wNjUgMS4xMjUgMjIuNjk3IDEwLjEwMyAyOS41MDcgMjIuNzg3IDI5LjUwNyA5LjU5MyAwIDE4LjU3Ni01LjAwNiAyMy4xNDQtMTEuMjI3IDMuMzUtNC40IDQuNzItOS4yNTYgNC43Mi0xMy4wNSAwLTIuOTQ0LS45MzQtNS4yOTUtMi40Mi02LjQ4OCIgZmlsbD0iI2VhNTI1MiIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+)
-
+<a href="https://github.com/fralfaro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fralfaro&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
