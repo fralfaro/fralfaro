@@ -75,9 +75,6 @@ I enjoy programming, learning about different topics and teaching about maths an
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> </a>
 
 
-
-
-
 ### 📊 Github Stats
   
 <a href='https://github.com/shahupdates/github-stats-transparent'>
