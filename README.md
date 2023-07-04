@@ -22,13 +22,13 @@ I enjoy programming, learning about different topics and teaching about maths an
 
 ### More About Me:
 
-<table>
+<table cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <ul>
         <li>🌍 I'm based in Chile</li>
-        <li>🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/)</li>
-        <li>✉️ You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com)</li>
+        <li>🖥️ See my portfolio at <a href="http://fralfaro.github.io/portfolio/">https://fralfaro.github.io/portfolio/</a></li>
+        <li>✉️ You can contact me at  <a href="francisco.alfaro.496@gmail.com">francisco.alfaro.496@gmail.com</a></li>
         <li>🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.</li>
         <li>🤝 I'm open to collaborating on Education Projects</li>
         <li>💬 Ask me about anything tech related, I am happy to help</li>
