@@ -20,16 +20,25 @@ I enjoy programming, learning about different topics and teaching about maths an
 
 </p>
 
-<img align="right" alt="GIF" src="images/techstack.gif" width="250"/>
-
 ### More About Me:
-* 🌍 I'm based in Chile
-* 🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/)
-* ✉️ You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com)
-* 🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.
-* 🤝 I'm open to collaborating on Education Projects
-* 💬 Ask me about anything tech related, I am happy to help
 
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌍 I'm based in Chile</li>
+        <li>🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/)</li>
+        <li>✉️ You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com)</li>
+        <li>🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.</li>
+        <li>🤝 I'm open to collaborating on Education Projects</li>
+        <li>💬 Ask me about anything tech related, I am happy to help</li>
+      </ul>
+    </td>
+    <td>
+      <img alt="GIF" src="images/techstack.gif" width="300">
+    </td>
+  </tr>
+</table>
 ### Skills
 
 #### 🤖 <span style="font-size:15px;">AI/ML: </span> &#8202;&#8202;&#8202;
