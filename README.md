@@ -21,7 +21,7 @@ I enjoy programming, learning about different topics and teaching about maths an
 
 ### More About Me:
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table class="sin-bordes">
   <tr>
     <td>
       <ul>
@@ -38,6 +38,7 @@ I enjoy programming, learning about different topics and teaching about maths an
     </td>
   </tr>
 </table>
+
 
 ### Skills
 
