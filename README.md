@@ -35,7 +35,7 @@ I enjoy programming, learning about different topics and teaching about maths an
       </ul>
     </td>
     <td>
-      <img alt="GIF" src="images/techstack.gif" width="300">
+      <img alt="GIF" src="images/techstack.gif" width="250">
     </td>
   </tr>
 </table>
