@@ -21,7 +21,7 @@ I enjoy programming, learning about different topics and teaching about maths an
 
 ### More About Me:
 
-<table cellpadding="0" cellspacing="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <ul>
@@ -34,7 +34,7 @@ I enjoy programming, learning about different topics and teaching about maths an
       </ul>
     </td>
     <td>
-      <img alt="GIF" src="images/techstack.gif" width="250">
+      <img alt="GIF" src="images/techstack.gif" width="250" border="0">
     </td>
   </tr>
 </table>
