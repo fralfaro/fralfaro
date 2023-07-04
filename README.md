@@ -39,6 +39,7 @@ I enjoy programming, learning about different topics and teaching about maths an
     </td>
   </tr>
 </table>
+
 ### Skills
 
 #### 🤖 <span style="font-size:15px;">AI/ML: </span> &#8202;&#8202;&#8202;
