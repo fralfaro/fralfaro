@@ -24,6 +24,9 @@ I enjoy programming, learning about different topics and teaching about maths an
 <table>
   <tr>
     <td>
+      <img alt="GIF" src="images/techstack.gif" width="250"  >
+    </td>
+    <td>
       <ul>
         <li>🌍 I'm based in Chile</li>
         <li>🖥️ See my portfolio at <a href="http://fralfaro.github.io/portfolio/">https://fralfaro.github.io/portfolio/</a></li>
@@ -33,9 +36,7 @@ I enjoy programming, learning about different topics and teaching about maths an
         <li>💬 Ask me about anything tech related, I am happy to help</li>
       </ul>
     </td>
-    <td>
-      <img alt="GIF" src="images/techstack.gif" width="250" >
-    </td>
+
   </tr>
 </table>
 
