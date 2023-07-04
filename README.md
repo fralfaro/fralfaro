@@ -19,7 +19,7 @@ I enjoy programming, learning about different topics and teaching about maths an
 <a href="https://www.kaggle.com/faamds" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" width="32" height="32" /></a>
 </p>
 
-<img align="right" alt="GIF" src="images/techstack.gif" width="300"/>
+<img align="right" alt="GIF" src="images/techstack.gif" width="220"/>
 
 ### More About Me:
 
