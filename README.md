@@ -31,6 +31,10 @@ I enjoy programming, learning about different topics and teaching about maths an
 
 ### Skills
 
+#### ☁️ <span style="font-size:15px;">Cloud Computing: </span> &#8202;&#8202;&#8202;
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="35" height="35"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+
+
 #### 🤖 <span style="font-size:15px;">AI/ML: </span> &#8202;&#8202;&#8202;
 
 <p align="left">
@@ -46,10 +50,6 @@ I enjoy programming, learning about different topics and teaching about maths an
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="50" height="40"/></a>
 <a href="https://www.pola.rs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg" alt="spark" width="50" height="40"/></a>
 </p>
-
-#### ☁️ <span style="font-size:15px;">Cloud Computing: </span> &#8202;&#8202;&#8202;
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="35" height="35"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-
 
 #### 🧰 <span style="font-size:15px;">Tools: </span> &#8202;&#8202;&#8202;
 
