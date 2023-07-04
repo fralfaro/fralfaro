@@ -21,24 +21,12 @@ I enjoy programming, learning about different topics and teaching about maths an
 
 ### More About Me:
 
-<table>
-  <tr>
-    <td>
-      <img alt="GIF" src="images/techstack.gif" width="250"  >
-    </td>
-    <td>
-      <ul>
-        <li>🌍 I'm based in Chile</li>
-        <li>🖥️ See my portfolio at <a href="http://fralfaro.github.io/portfolio/">https://fralfaro.github.io/portfolio/</a></li>
-        <li>✉️ You can contact me at  <a href="francisco.alfaro.496@gmail.com">francisco.alfaro.496@gmail.com</a></li>
-        <li>🧠 I'm learning Software Development, Deep Learning and Advanced Statistics</li>
-        <li>🤝 I'm open to collaborating on Education Projects</li>
-        <li>💬 Ask me about anything tech related, I am happy to help</li>
-      </ul>
-    </td>
-
-  </tr>
-</table>
+* 🌍 I'm based in Chile
+* 🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/)
+* ✉️ You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com)
+* 🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.
+* 🤝 I'm open to collaborating on Education Projects
+* 💬 Ask me about anything tech related, I am happy to help
 
 
 ### Skills
@@ -95,9 +83,6 @@ I enjoy programming, learning about different topics and teaching about maths an
 </p>
 
 ### 📊 Github Stats
-  
-<a href='https://github.com/shahupdates/github-stats-transparent'>
-  
+
 ![](https://raw.githubusercontent.com/fralfaro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/fralfaro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-</a>
