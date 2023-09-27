@@ -19,6 +19,7 @@ I enjoy programming, learning about different topics and teaching about maths an
 <a href="https://www.kaggle.com/faamds" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" width="32" height="32" /></a>
 </p>
 
+
 ### More About Me:
 
 * 🌍 I'm based in Chile
@@ -27,6 +28,13 @@ I enjoy programming, learning about different topics and teaching about maths an
 * 🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.
 * 🤝 I'm open to collaborating on Education Projects
 * 💬 Ask me about anything tech related, I am happy to help
+
+### Portfolio
+
+* **Activity**: 📜 [Research](https://fralfaro.github.io/portfolio/research/research/), 💭️[Talks](https://fralfaro.github.io/portfolio/research/talks/), 🎓️[Students](https://fralfaro.github.io/portfolio/research/students/)
+* **Software**: 📕 [Books](https://fralfaro.github.io/portfolio/software/book/), 🫱🏼‍🫲[Collaboration](https://fralfaro.github.io/portfolio/software/collaboration/), 🛠️️[Projects](https://fralfaro.github.io/portfolio/software/projects/),🚀[Packages](https://fralfaro.github.io/portfolio/software/software/)
+* **Teaching**: 🏛️ [University Courses](https://fralfaro.github.io/portfolio/teaching/universities/), 📖 [Personal Courses](https://fralfaro.github.io/portfolio/teaching/personal/)
+* **Blog**: 🌐 [Posts](https://fralfaro.github.io/DS-Blog/)
 
 
 ###  Skills
