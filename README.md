@@ -22,7 +22,7 @@
   * 💻 Senior Data Scientist (Walmart - Chile)
   * 📖 Associate Lecturer (UTFSM - Chile)
 
-### More About Me:
+### More About Me
 
 * 🌍 I'm based in Chile.
 * 🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/).
