@@ -22,11 +22,6 @@
   * 💻 Senior Data Scientist (Walmart - Chile)
   * 📖 Associate Lecturer (UTFSM - Chile)
 
-I enjoy programming, learning about different topics and teaching about maths and computer science.
-
-
-
-
 ### More About Me:
 
 * 🌍 I'm based in Chile.
