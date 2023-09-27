@@ -8,6 +8,7 @@
 </p>
 
 ### About me
+
 <p align="left"> 
 <a href="https://www.github.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="32" height="32" /></a>
 <a href="https://gitlab.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="32" height="32" /></a>
@@ -18,13 +19,9 @@
 </p>
 
 * **Profession**: 📊 Mathematical Engineer
-* Current Work:
+* **Current Work**:
   * 💻 Senior Data Scientist (Walmart - Chile)
   * 📖 Associate Lecturer (UTFSM - Chile)
-
-### More About Me:
-
-* 🌍 I'm based in Chile.
 * 🖥️ See my portfolio at [https://fralfaro.github.io/portfolio/](http://fralfaro.github.io/portfolio/).
 * ✉️ You can contact me at [francisco.alfaro.496@gmail.com](mailto:francisco.alfaro.496@gmail.com).
 * 🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.
