@@ -29,7 +29,7 @@ I enjoy programming, learning about different topics and teaching about maths an
 * 💬 Ask me about anything tech related, I am happy to help
 
 
-### 🧰 Skills
+###  Skills
 
 <p align="left">
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
@@ -51,6 +51,8 @@ I enjoy programming, learning about different topics and teaching about maths an
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://gogeticon.net/files/3163573/d130ef65a8efdfa66fa49eb5ab745cef.png" alt="docker" width="40" height="40"/> </a>
 </p>
+
+
 
 
 ### 📊 Github Stats
