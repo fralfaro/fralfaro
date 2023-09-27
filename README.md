@@ -2,14 +2,12 @@
 
 
 
+
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
-Associate Lecturer at Universidad Santa María (USM) and Senior Data Scientist at Walmart (Chile). 
-I enjoy programming, learning about different topics and teaching about maths and computer science.
-
-### Socials
+### About me
 <p align="left"> 
 <a href="https://www.github.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="32" height="32" /></a>
 <a href="https://gitlab.com/fralfaro" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="32" height="32" /></a>
@@ -18,6 +16,15 @@ I enjoy programming, learning about different topics and teaching about maths an
 <a href="http://www.medium.com/@fralfaro" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" width="32" height="32" /></a>
 <a href="https://www.kaggle.com/faamds" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" width="32" height="32" /></a>
 </p>
+
+* **Profession**: 📊 Mathematical Engineer
+* Current Work:
+  * 💻 Senior Data Scientist (Walmart - Chile)
+  * 📖 Associate Lecturer (UTFSM - Chile)
+
+I enjoy programming, learning about different topics and teaching about maths and computer science.
+
+
 
 
 ### More About Me:
