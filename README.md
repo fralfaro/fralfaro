@@ -67,5 +67,4 @@
 
 ### 📊 Github Stats
 
-![](https://raw.githubusercontent.com/fralfaro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/fralfaro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![fralfaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=fralfaro&show_icons=true&theme=dracula)
