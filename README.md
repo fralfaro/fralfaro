@@ -67,4 +67,4 @@
 
 ### 📊 Github Stats
 
-![fralfaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=fralfaro&show_icons=true&theme=dracula)
+![fralfaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=fralfaro&show_icons=true&theme=gruvbox)
