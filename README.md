@@ -67,4 +67,5 @@
 
 ### 📊 Github Stats
 
-![fralfaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=fralfaro&show_icons=true&theme=gruvbox)
+![fralfaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=fralfaro&show_icons=true&theme=gruvbox&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fralfaro&theme=gruvbox)](https://github.com/fralfaro/github-readme-stats)
