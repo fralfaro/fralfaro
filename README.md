@@ -19,7 +19,7 @@
 
 * **Profession**: 📊 Mathematical Engineer
 * **Current Work**:
-  * 💻 Senior Data Scientist (Walmart - Chile)
+  * 💻 Head of Advanced Analytics (Grupo Security - Chile)
   * 📖 Associate Lecturer (UTFSM - Chile)
 
 ### More About Me
