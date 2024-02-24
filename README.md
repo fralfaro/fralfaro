@@ -22,7 +22,7 @@
   * 💻 Head of Advanced Analytics (Grupo Security - Chile)
   * 📖 Associate Lecturer (UTFSM - Chile)
 * **Interests**:
-🎮[SSBM-Dark](https://www.youtube.com/watch?v=xwDHs6UXgR8)🦊 | 🏀[Basketball-LBJ](https://www.youtube.com/watch?v=6fQk1Od5kUw)👑
+🎮🦊[SSBM-Dark](https://www.youtube.com/watch?v=xwDHs6UXgR8) | 🏀👑[Basketball-LBJ](https://www.youtube.com/watch?v=6fQk1Od5kUw)
 
 
 ### More About Me
