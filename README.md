@@ -39,7 +39,7 @@
 * **Activity**: 📜 [Research](https://fralfaro.github.io/portfolio/research/research/), 💭️ [Talks](https://fralfaro.github.io/portfolio/research/talks/), 🎓 [Students](https://fralfaro.github.io/portfolio/research/students/)
 * **Software**: 📕 [Books](https://fralfaro.github.io/portfolio/software/book/), 🤝 [Collaboration](https://fralfaro.github.io/portfolio/software/collaboration/), 🛠️️ [Projects](https://fralfaro.github.io/portfolio/software/projects/), 🚀 [Packages](https://fralfaro.github.io/portfolio/software/software/)
 * **Teaching**: 🏛️ [University Courses](https://fralfaro.github.io/portfolio/teaching/universities/), 📖 [Personal Courses](https://fralfaro.github.io/portfolio/teaching/personal/)
-* **Blog**: 🌐 [Posts](https://fralfaro.github.io/DS-Blog/)
+* **Blog**: 🌐 [Posts]([https://fralfaro.github.io/DS-Blog/](https://fralfaro.github.io/blog/))
 
 
 ###  Skills
