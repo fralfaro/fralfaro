@@ -21,10 +21,6 @@
 * **Current Work**:
   * 💻 Head of Advanced Analytics (Grupo Security - Chile)
   * 📖 Associate Lecturer (UTFSM - Chile)
-* **Interests**:
-  * 🎮🦊[SSBM-Dark](https://www.youtube.com/watch?v=xwDHs6UXgR8)
-  * 🏀👑[Basketball-LBJ](https://www.youtube.com/watch?v=6fQk1Od5kUw)
-
 
 ### More About Me
 
@@ -34,6 +30,8 @@
 * 🧠 I'm learning Software Development, Deep Learning and Advanced Statistics.
 * 🤝 I'm open to collaborating on Education Projects.
 * 💬 Ask me about anything tech related, I am happy to help.
+* 🎮🦊[SSBM-Dark](https://www.youtube.com/watch?v=xwDHs6UXgR8): I'm fascinated by the competitive scene of Super Smash Bros. Melee. My nickname is Dark.
+* 🏀👑[Basketball-LBJ](https://www.youtube.com/watch?v=6fQk1Od5kUw): As a sports enthusiast, enjoy playing basketball. Lebron James fans.
 
 ### Portfolio
 
