@@ -1,8 +1,5 @@
 ## Hi 👋 My name is Francisco Alfaro
 
-
-
-
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
@@ -40,7 +37,6 @@
 * **Teaching**: 🏛️ [University Courses](https://fralfaro.github.io/portfolio/teaching/universities/), 📖 [Personal Courses](https://fralfaro.github.io/portfolio/teaching/personal/)
 * **Blog**: 🌐 [Posts](https://fralfaro.github.io/blog/)
 
-
 ###  Skills
 
 <p align="left">
@@ -63,9 +59,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://gogeticon.net/files/3163573/d130ef65a8efdfa66fa49eb5ab745cef.png" alt="docker" width="40" height="40"/> </a>
 </p>
-
-
-
 
 ### 📊 Github Stats
 
