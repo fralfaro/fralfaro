@@ -63,3 +63,7 @@
 ### 📊 Github Stats
 
 ![fralfaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=fralfaro&show_icons=true&theme=gruvbox&hide_rank=true)
+
+## Escuela verano 2025
+
+https://seth-nut.github.io/ws-usm_uchile-2025/
