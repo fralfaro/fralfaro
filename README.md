@@ -31,8 +31,8 @@
 
 * **Knowledge Hub**: 📜 [Research, Talks, Students](https://fralfaro.github.io/portfolio/research/research/)
 * **Software**: 📕 [Documentation](https://fralfaro.github.io/portfolio/software/book/), 🤝 [Collaboration](https://fralfaro.github.io/portfolio/software/collaboration/), 🚀️ [Projects](https://fralfaro.github.io/portfolio/software/projects/)
-* **Teaching**: 🏛️ [University Courses](https://fralfaro.github.io/portfolio/teaching/universities/), 📖 [Personal Courses](https://fralfaro.github.io/portfolio/teaching/personal/)
-* **Blog**: 🌐 [Posts](https://fralfaro.github.io/blog/)
+* **Teaching**: 🏛️ [University Courses](https://fralfaro.github.io/portfolio/teaching/universities/)
+* **Resources**: 🌐 [https://falfaro.xyz/portfolio/blog/extras/](https://sethnut.com/resources/)
 
 ###  Skills
 
